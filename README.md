@@ -13,4 +13,4 @@ Quick How-to
 
 5. use it :D
 
-for quick test your new webpage placeholder use **docker run -it -p 80:80 your-username/container-name-for-docker-hub** and open (http://localhost)
+for quick test your new webpage placeholder use **docker run -it -p 80:80 your-username/container-name-for-docker-hub** or `docker-compose up` and open (http://localhost)
